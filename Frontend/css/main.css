@@ -123,6 +123,10 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+#content-area {
+  margin-left: 280px;
+  padding: 15px; }
+
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
